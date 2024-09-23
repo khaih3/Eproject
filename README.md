@@ -1,7 +1,7 @@
 <a  name="readme-top"></a>
 <br  />
 <div  align="center">
-<img  src="https://github.com/khaih3/Eproject/blob/main/1111.png?raw=true"  alt="Logo"  width="400px"  height="auto">
+<img  src="https://github.com/khaih3/Eproject/blob/master/public/assets/images/logo/1111.png"  alt="Logo"  width="400px"  height="auto">
 </a>
 <h3  align="center">HOME STYLER</h3>
 
