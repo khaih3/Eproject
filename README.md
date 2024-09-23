@@ -81,9 +81,3 @@ Pham Huu Nam Anh `Student1501062`<br/>
 [JS]:https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [SASS]:https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
 [REACT]:https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-
-<<<<<<< HEAD
-[REACT]:https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-=======
-[REACT]:https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
->>>>>>> c94be682a6484fe254933d4a77949ad79e53c820
