@@ -46,16 +46,6 @@ applicable.</br>
 
 
 </ol>
-
- ## Members of group
- ### Leader : Ho Thi Bich Lien `Student1506037`
-#### Members:
-Tran Thi Thao `Student1501286` </br>
-Vo Hoang Khai `Student 1501207` </br>
-Nguyen Lam Chi Nguyen `Student1501858` </br>
-Pham Huu Nam Anh `Student1501062`<br/>
-
-
  
 
 
