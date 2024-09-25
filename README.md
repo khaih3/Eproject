@@ -10,7 +10,7 @@ HomeStyler will be an intuitive, flexible and responsive website dedicated to ho
 <a  href="https://github.com/khaih3/Eproject"><strong>Explore the source »</strong></a>
 <a  href="https://github.com/khaih3/Eproject/tree/master/document" target="_blank"><strong>Explore the documents »</strong></a>
 <br  /><a  href="https://www.youtube.com/watch?v=HIybXUcAl6E&lc=UgwJd89yk96UBmEiysN4AaABAg" target="_blank">Video</a>
-<a href="https://homestyler-livid.vercel.app/">view demo</a>
+<a href="https://eproject-two.vercel.app/">view demo</a>
 
 
   ### Built With
